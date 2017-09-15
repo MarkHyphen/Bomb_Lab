@@ -30,5 +30,5 @@ Finally, I want to comment on the [OpenSecurityTraining.info](http://www.opensec
 
 1. [OpenSecurityTraining - Intro to x86 course](http://www.opensecuritytraining.info/IntroX86.html) - get the x86 bomb lab for Linux  
 2.  [OpenSecurityTraining - Intro to x86-64 course](http://www.opensecuritytraining.info/IntroX86-64.html) - get the x86-64 bomb lab for Linux  
-3.  [OpenSecurityTraining - Intro to RE](www.opensecuritytraining.info/IntroductionToReverseEngineering.html) - get the x86 bomb lab for Windows  
+3.  [OpenSecurityTraining - Intro to RE](http://www.opensecuritytraining.info/IntroductionToReverseEngineering.html) - get the x86 bomb lab for Windows  
 4. Randal E. Bryant and David R. O'Hallaron, Carnegie Mellon University - [bomb lab](http://csapp.cs.cmu.edu/3e/labs.html) - original citation  
